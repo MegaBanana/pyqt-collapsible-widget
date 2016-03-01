@@ -6,9 +6,11 @@ Because if there is no widget collapsable in PyQt (until Qt5). But the Maya cmds
 
 ## How does it look?
 **Here you can see the result in a standard Python application**
+
 ![PyQt Collapsable Widget in Python standalone](https://github.com/By0ute/pyqt-collapsable-widget/blob/master/images/pyqt_collapsable_widget.gif)
 
 **Here you can see the result from a Maya window**
+
 ![PyQt Collapsable Widget in Maya](https://github.com/By0ute/pyqt-collapsable-widget/blob/master/images/pyqt_collapsable_widget_maya.gif)
 
 ###### *Hope you'll enjoy it!*, :kissing_cat:
